@@ -1,5 +1,6 @@
 This is 1st training of Git to Namita
- 
+ ![image](https://github.com/user-attachments/assets/905878ea-6bf2-4497-bb14-6c645b0187b8)
+
 Manual Integration : 
 =====================
 The developer makes the code and its build on server at 11 pm in maven and 500 testing and there are bugs so have to send it back to the Developer to rectify the bug 
