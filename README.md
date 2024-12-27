@@ -1,10 +1,15 @@
-This is 1st training of Git to Namita
- ![image](https://github.com/user-attachments/assets/905878ea-6bf2-4497-bb14-6c645b0187b8)
+
+![image](https://github.com/user-attachments/assets/2b114e0f-526d-44c9-a429-1c395e4a4438)
+
+ 
 
 Manual Integration : 
 =====================
 The developer makes the code and its build on server at 11 pm in maven and 500 testing and there are bugs so have to send it back to the Developer to rectify the bug 
-[image](https://github.com/user-attachments/assets/905878ea-6bf2-4497-bb14-6c645b0187b8)
+
+![image](https://github.com/user-attachments/assets/905878ea-6bf2-4497-bb14-6c645b0187b8)
+
+
 New Solution continuous integration : 
 ================================
 In continuous integration if example 10 lines pushed in git it will automatically picked by CI Server tool which automatically will compile build continuously and there are error it will notify back to the developer that there are bugs and developers can rectify the bugs. All automated work  
@@ -59,4 +64,6 @@ Execute a job from remote script
 Poll SCM Dashboar build trigger  Poll SCM
 Can give every minute or every hour or after 10 hour or 5 pm or anytime everyday. 
 Crontab search in google and use this cron schedule
+
+
 
