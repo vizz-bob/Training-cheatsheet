@@ -7,7 +7,7 @@ Manual Integration :
 =====================
 The developer makes the code and its build on server at 11 pm in maven and 500 testing and there are bugs so have to send it back to the Developer to rectify the bug 
 
-
+![image](https://github.com/user-attachments/assets/905878ea-6bf2-4497-bb14-6c645b0187b8)
 
 
 New Solution continuous integration : 
@@ -65,5 +65,5 @@ Poll SCM Dashboar build trigger  Poll SCM
 Can give every minute or every hour or after 10 hour or 5 pm or anytime everyday. 
 Crontab search in google and use this cron schedule
 
-![image](https://github.com/user-attachments/assets/905878ea-6bf2-4497-bb14-6c645b0187b8)
+
 
