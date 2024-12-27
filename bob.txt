@@ -4,7 +4,7 @@ This is 1st training of Git to Namita
 Manual Integration : 
 =====================
 The developer makes the code and its build on server at 11 pm in maven and 500 testing and there are bugs so have to send it back to the Developer to rectify the bug 
-
+[image](https://github.com/user-attachments/assets/905878ea-6bf2-4497-bb14-6c645b0187b8)
 New Solution continuous integration : 
 ================================
 In continuous integration if example 10 lines pushed in git it will automatically picked by CI Server tool which automatically will compile build continuously and there are error it will notify back to the developer that there are bugs and developers can rectify the bugs. All automated work  
